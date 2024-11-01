@@ -17,7 +17,7 @@ const personalDetails = [
   },
   {
     label: "Address",
-    value: "Abomey-Calavi, Atlantique, Benin",
+    value: "Cotonou, Littoral, Benin",
   },
   {
     label: "Email",
